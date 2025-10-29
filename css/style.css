@@ -128,7 +128,7 @@ h2::after {
 .hero-logo {
     display: block;
     margin: 0 auto 30px;
-    height: 105px; /* НОВИЙ РОЗМІР: 150% від 70px */
+    height: 210px; /* НОВИЙ РОЗМІР: 150% від 70px */
     max-width: 100%;
     object-fit: contain;
     background-color: #ffffff;
@@ -489,7 +489,7 @@ footer {
     }
 
     .hero-logo {
-        height: 90px; /* НОВИЙ РОЗМІР: 150% від 60px (мобільний розмір SDG) */
+        height: 180px; /* НОВИЙ РОЗМІР: 150% від 60px (мобільний розмір SDG) */
         margin-bottom: 20px;
     }
 
@@ -539,3 +539,4 @@ footer {
         height: 80px; /* Трохи менший розмір для найменших екранів */
     }
 }
+
